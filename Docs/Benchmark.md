@@ -1,5 +1,5 @@
 Geekbench 5
------
+================
 
 Benchmarks with Geekbench 5.0.4
 

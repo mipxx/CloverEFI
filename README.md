@@ -3,7 +3,7 @@ Clover EFI
 
 :exclamation: Change 'MLB, 'BoardSerialNumber', 'SerialNumber' and 'SmUUID' Number to a valid value!
 
-:exclamation: This configuration is not intended to be updated in the future. Please git [OpenCore](https://github.com/mipxx/OpenCoreEFI) a try
+:exclamation: This configuration is not intended to be updated in the future. Please give [OpenCore](https://github.com/mipxx/OpenCoreEFI) a try.
 
 <img src="https://github.com/mipxx/CloverEFI/blob/master/Docs/System/System_Info_1.png" width="698" height="465"/>
 
